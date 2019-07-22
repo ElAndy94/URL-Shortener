@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl":"https://www.rightmove.co.uk/property-for-sale/property-69182248.html?backListLink=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DREGION%255E1163%26maxPrice%3D700000%26radius%3D0.25%26sortType%3D6%26index%3D24%26propertyTypes%3Ddetached%26secondaryDisplayPropertyType%3Ddetachedshouses%26includeSSTC%3Dfalse%26mustHave%3D%26dontShow%3DnewHome%252Cretirement%252CsharedOwnership%26furnishTypes%3D%26keywords%3D&onetime_savedPropertyId=69182248#summary69182248"
+}
